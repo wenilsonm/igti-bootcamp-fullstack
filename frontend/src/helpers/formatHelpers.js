@@ -1,3 +1,6 @@
+/**
+ * Script para formatHelpers
+ */
 const formatter = Intl.NumberFormat('pt-BR');
 
 function formatNumber(value) {
